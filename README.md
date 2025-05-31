@@ -15,6 +15,10 @@ It lets users add, check off, and delete tasks with smooth interactions and a cl
 
 ![App Screenshot](Screenshot.png)
 
+## 🔗 Live Demo
+
+[Click here to view the live app]((https://omarasim6.github.io/To-Do-List-App/))
+
 ## 🔧 Built With
 
 - HTML5
