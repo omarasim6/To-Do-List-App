@@ -13,7 +13,10 @@ It lets users add, check off, and delete tasks with smooth interactions and a cl
 
 ## 📸 Screenshot
 
-![App Screenshot](Screenshot.png)
+<p align="center">
+  <img src="Screenshot.png" alt="To-Do App Screenshot" width="75%">
+  <br><em>A preview of my To-Do List app</em>
+</p>
 
 ## 🔗 Live Demo
 
