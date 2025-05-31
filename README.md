@@ -15,10 +15,11 @@ It lets users add, check off, and delete tasks with smooth interactions and a cl
 
 [Click here to view the live app](https://omarasim6.github.io/To-Do-List-App/)
 
-## 🔧 Built With
+## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (vanilla)
+- **HTML** – For building the structure of the app
+- **CSS** – For styling the interface and making it responsive
+- **JavaScript** – For functionality like adding, deleting, and storing tasks
+- **LocalStorage API** – To save tasks even after refreshing or closing the browser
   
 ---
