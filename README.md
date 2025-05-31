@@ -13,7 +13,7 @@ It lets users add, check off, and delete tasks with smooth interactions and a cl
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## 🔧 Built With
 
